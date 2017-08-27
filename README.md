@@ -1,7 +1,6 @@
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
     
-    <html xmlns="http://www.w3.org/1999/xhtml">
+   <html xmlns="http://www.w3.org/1999/xhtml">
     
 <head>  
             <link rel="canonical" href="http://blog.csdn.net/on_1y/article/details/19259435"/> 
@@ -23,8 +22,7 @@
    
     <script src="http://static.blog.csdn.net/scripts/blog_static_head.min.js" type="text/javascript"></script>
 
-    
-        <!--new top-->
+      <!--new top-->
        
        
         <!--new top-->
@@ -59,7 +57,7 @@
 
 <body>
      
-        <div class="tracking-ad" data-view="true" data-mod="ad_popu_72"  data-mtp="62" data-order="40" data-con="ad_content_2072" >
+   <div class="tracking-ad" data-view="true" data-mod="ad_popu_72"  data-mtp="62" data-order="40" data-con="ad_content_2072" >
                      <script id="popuLayer_js_q" src="http://ads.csdn.net/js/popuLayer.js" defer="defer"  type="text/javascript"></script>
                 <div id="layerd" style="position: fixed;bottom:0px;right:0px;line-height:0px;z-index:1000">
     	                <div class="J_close layer_close" style="display:;background-color:#efefef;padding:0px;color:#333;font:12px/24px Helvetica,Tahoma,Arial,sans-serif;text-align:right;">关闭</div><!-- 广告占位容器 --><div id="cpro_u2895327"></div></div>
@@ -175,8 +173,8 @@
 
    
 
-        <div class="article_manage clearfix">
-        <div class="article_l">
+  <div class="article_manage clearfix">
+    <div class="article_l">
             <span class="link_categories">
             标签：
               <a href='http://www.csdn.net/tag/githbu' target=_blank onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_tag']);">githbu</a><a href='http://www.csdn.net/tag/jekyll' target=_blank onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_tag']);">jekyll</a><a href='http://www.csdn.net/tag/%e5%8d%9a%e5%ae%a2' target=_blank onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_tag']);">博客</a><a href='http://www.csdn.net/tag/%e5%85%8d%e8%b4%b9' target=_blank onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_tag']);">免费</a>
