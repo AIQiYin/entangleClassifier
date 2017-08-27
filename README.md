@@ -1,17 +1,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><div id="wenzhangToubu"></div>
 
    
-
-        <div>
-        
-        <div>
-            2014-02-15 23:07
-            61693人阅读
-             <a href="#comments" target="_blank">评论</a>(43)
-             <a href="javascript:void(0);" title="收藏" target="_blank">收藏</a>
-              <a href="#report" title="举报" target="_blank">举报</a>
-
-        </div>
         
     
       
@@ -514,37 +503,3 @@ All the themes are intergrated in the blog template, with some modifies.</p>
     <div>
         * 以上用户言论只代表其个人观点，不代表CSDN网站的观点或立场</div>
 
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        
-                    
