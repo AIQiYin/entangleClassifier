@@ -2,7 +2,16 @@
 
    
         
-    
+<div>
+        
+<div>
+            2014-02-15 23:07
+            61693人阅读
+             <a href="#comments" target="_blank">评论</a>(43)
+             <a href="javascript:void(0);" title="收藏" target="_blank">收藏</a>
+              <a href="#report" title="举报" target="_blank">举报</a>
+</div>
+        
       
 <div>         
     <p>版权声明：本文为博主原创文章，未经博主允许不得转载。</p>
